@@ -7,17 +7,17 @@
 
     Alien 👽
         Gamer 🎮
-            Rocker 👩‍🎤 
+            Rocker 👩‍🎤
                 {Divaloper} 👩‍💻
                     Kawaii 👸
                         Nerd 🖖
-                           Witch 🧙‍
-                             Vampire 🧛‍
-                                Motorbike 🏍
-                                   Animal Lover 🐺🐱
-                                       Craftsman 🧵🧶
-                                            Reader 📖
-                                                Replicante 🌌 
+                            Witch 🧙‍
+                                Vampire 🧛‍
+                                    Motorbike 🏍
+                                        Animal Lover 🐺🐱
+                                            Craftsman 🧵🧶
+                                                Reader 📖
+                                                    Replicante 🌌 
 
 <!--
 **pattrie/pattrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,23 @@
 
 ### Welcome everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+
+#### Who am I?
+
+    Alien 👽
+        Gamer 🎮
+            Rocker 👩‍🎤 
+                {Divaloper} 👩‍💻
+                    Kawaii 👸
+                        Nerd 🖖
+                           Witch 🧙‍
+                             Vampire 🧛‍
+                                Motorbike 🏍
+                                   Animal Lover 🐺🐱
+                                       Craftsman 🧵🧶
+                                            Reader 📖
+                                                Replicante 🌌 
+
 <!--
 **pattrie/pattrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +44,7 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-#### Where's Patricia?
+#### Where am I?
 
 <a href="https://www.linkedin.com/in/patricia-batista-morais/"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" width="30px"></a>
 <a href="https://www.instagram.com/pattie.exe/?hl=pt-br"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383263.svg" width="30px"></a>

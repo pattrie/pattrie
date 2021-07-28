@@ -1,15 +1,14 @@
-![clique aqui](https://github.com/pattrie/pattrie/blob/main/DIVALOPER.jpg?raw=true)
+<!--![clique aqui](https://github.com/pattrie/pattrie/blob/main/DIVALOPER.jpg?raw=true)-->
 
 ### Welcome everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-#### Who am I?
+<!--#### Who am I?
 
     Alien 👽
         Gamer 🎮
             Rocker 👩‍🎤
                 {Divaloper} 👩‍💻
-                    Kawaii 👸
                         Nerd 🖖
                             Witch 🧙‍
                                 Vampire 🧛‍
@@ -44,9 +43,9 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-#### Where am I?
+<!--#### Where am I?-->
 
 <a href="https://www.linkedin.com/in/patricia-batista-morais/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" width="30px"></a>
-<a href="https://www.instagram.com/pattrie.exe/?hl=pt-br" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383263.svg" width="30px"></a>
-<!--<a href="" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/3062/3062634.svg" width="35px"></a>-->
+<!--<a href="https://www.instagram.com/pattrie.exe/?hl=pt-br" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383263.svg" width="30px"></a>
+<a href="" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/3062/3062634.svg" width="35px"></a>
 <!--<a href="https://twitter.com/areplicante" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383265.svg" width="30px"></a>-->
